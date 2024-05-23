@@ -113,7 +113,6 @@ A collection of awesome things.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog) - Catalog of categories and libraries for Node.js Toolbox
 - [QuickBase/babel-plugin-styled-components-css-namespace](https://github.com/QuickBase/babel-plugin-styled-components-css-namespace) - A babel plugin to add css namespaces (and increase specificity) of styled-component classes.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [absqueued/pup](https://github.com/absqueued/pup) - The Ultimate Boilerplate for Products.
@@ -224,6 +223,7 @@ A collection of awesome things.
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Trainy-ai/llm-atc](https://github.com/Trainy-ai/llm-atc) - Fine-tuning and serving LLMs on any cloud
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
@@ -322,6 +322,7 @@ A collection of awesome things.
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [LunatiqueCoder/react-native-media-console](https://github.com/LunatiqueCoder/react-native-media-console) - A React Native video player. Built with TypeScript ❤️
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
 - [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
