@@ -119,6 +119,7 @@ A collection of awesome things.
 - [QuickBase/babel-plugin-styled-components-css-namespace](https://github.com/QuickBase/babel-plugin-styled-components-css-namespace) - A babel plugin to add css namespaces (and increase specificity) of styled-component classes.
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
+- [absqueued/connect-four](https://github.com/absqueued/connect-four) - Connect four, with JS 
 - [absqueued/pup](https://github.com/absqueued/pup) - The Ultimate Boilerplate for Products.
 - [adamkdean/gpt-unicorn](https://github.com/adamkdean/gpt-unicorn) - Getting GPT-4 to draw a new unicorn every day
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -147,7 +148,7 @@ A collection of awesome things.
 - [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [optimumfuturist/scrum](https://github.com/optimumfuturist/scrum) - Scrum Meeting Deck using Impress.js
-- [optimumfuturist/webpack-npm-starter](https://github.com/optimumfuturist/webpack-npm-starter) - SWC+ Webpack starter for npm package authoring
+- [optimumfuturist/swc-webpack-npm-starter](https://github.com/optimumfuturist/swc-webpack-npm-starter) - SWC+ Webpack starter for npm package authoring
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
@@ -406,6 +407,7 @@ A collection of awesome things.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [MrKomish/awesome-saas](https://github.com/MrKomish/awesome-saas) - A curated list for building awesome SaaS (Software as a Service) platforms 🐕‍🔥
 - [NeudesicIndia/MetroUI](https://github.com/NeudesicIndia/MetroUI) - Windows 8 like components built for Web, developed using JavaScript.
+- [absqueued/Absolute-Awesome](https://github.com/absqueued/Absolute-Awesome) - My starred awesome repos
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
