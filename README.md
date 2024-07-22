@@ -1,6 +1,4 @@
-# Absolute Awesome
-
-[![build](https://github.com/absqueued/Absolute-Awesome/workflows/build/badge.svg)](https://github.com/absqueued/Absolute-Awesome/actions)
+# Awesome  [![build](https://github.com/absqueued/awesome/workflows/build/badge.svg)](https://github.com/absqueued/awesome/actions)
 
 A collection of awesome things.
 
@@ -409,7 +407,7 @@ A collection of awesome things.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [MrKomish/awesome-saas](https://github.com/MrKomish/awesome-saas) - A curated list for building awesome SaaS (Software as a Service) platforms 🐕‍🔥
 - [NeudesicIndia/MetroUI](https://github.com/NeudesicIndia/MetroUI) - Windows 8 like components built for Web, developed using JavaScript.
-- [absqueued/Absolute-Awesome](https://github.com/absqueued/Absolute-Awesome) - My starred awesome repos
+- [absqueued/awesome](https://github.com/absqueued/awesome) - My starred awesome repos
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
