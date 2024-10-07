@@ -390,6 +390,7 @@ A collection of awesome things.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
 - [bidah/uni-stack](https://github.com/bidah/uni-stack) - ⚛️💻📱Typesafe setup to build fullstack expo universal native apps
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
+- [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework. 
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
@@ -479,6 +480,7 @@ A collection of awesome things.
 - [NeudesicIndia/MetroUI](https://github.com/NeudesicIndia/MetroUI) - Windows 8 like components built for Web, developed using JavaScript.
 - [absqueued/awesome](https://github.com/absqueued/awesome) - My starred awesome repos
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
+- [antonio-morales/Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A GitHub Security Lab initiative 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
